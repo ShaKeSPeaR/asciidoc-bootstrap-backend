@@ -10293,8 +10293,11 @@ div.toclevel4 {
   margin-top: 0;
   margin-bottom: 0;
 }
+div.toclevel1 {
+  margin-left: 1.5em;
+}
 div.toclevel2 {
-  margin-left: 2em;
+  margin-left: 2.5em;
   font-size: 0.9em;
 }
 div.toclevel3 {
